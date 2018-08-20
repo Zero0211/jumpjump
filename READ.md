@@ -1,1 +1,2 @@
 # jumpjump
+Start from Zero!
